@@ -1,17 +1,17 @@
 <html>
 	<head>
-	
+
 		<title>My Singing Monsters Memory Game Helper</title>
 		<meta charset="utf-8">
 
 		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 		<meta name="viewport" content="width=800">
-		
+
 	</head>
-	
+
 	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 	<style>
-		
+
 		html {
 			background-color: #181a1b;
 			color: #e8e6e3;
@@ -291,12 +291,12 @@
 				{
 					"level":4,
 					"grid": [
-						0,0,0,0,0,0,0,0,0,0,
-						0,0,0,1,0,0,0,1,0,0,
-						0,0,1,1,0,0,1,1,0,0,
-						0,0,0,1,0,0,0,1,0,0,
-						0,0,0,1,0,0,0,1,0,0,
-						0,0,1,1,1,0,1,1,1,0
+						0,1,1,0,0,0,0,1,0,0,
+						1,0,0,1,0,0,0,1,0,0,
+						0,1,1,0,0,0,0,0,0,1,
+						0,0,0,0,0,1,0,0,1,0,
+						0,1,0,0,0,0,1,0,0,0,
+						0,1,0,0,0,0,0,0,0,0
 					],
 				},
 				{
@@ -397,7 +397,7 @@
 				}
 			}
 			var selected = 0;
-			
+
 			$.each(monsters, function(k,v) {
 				var img = $('<img class="character" id="'+k+'">');
 				img.attr('src', v.src).attr('alt', v.name).attr('title', v.name).data( { 'island': v.islands } ).data( { 'class': v.class } );
@@ -425,9 +425,9 @@
 					}
 				}
 			});
-			
+
 			$('#filter').on( "keyup", function(){ filterImages(); });
-			
+
 			function filterSearch() {
 				var search = $('#filter').val().toLowerCase();
 				if(search.length) {
@@ -438,7 +438,7 @@
 					});
 				}
 			};
-			
+
 			const islands = [];
 			$(monsters).each(function(k,monster){
 				$(monster.islands).each(function(k,island){
@@ -451,19 +451,19 @@
 			$(islands).each(function(k,v){
 				$('#filter-island').append('<option value="'+v+'">'+v+'</option>');
 			});
-			
+
 			$('#filter-island').change(function(){ filterImages() });
-			
+
 			$('input[type=radio][name=filter-type]').change(function(){ filterImages(); });
-			
+
 			$('#help').click(function(){
 				$('#help-box-out').css('display','block');
 			});
-			
+
 			$('#help-box-out').click(function(){
 				$('#help-box-out').css('display','none');
 			});
-			
+
 			function filterImages() {
 				$('.character').removeClass("hide");
 				var filterClass = $('input[type=radio][name=filter-type]:checked').val();

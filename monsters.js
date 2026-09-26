@@ -696,202 +696,7 @@ var monsters = [
 			"Mythical"
 		]
 	},
-	{
-		"name": "Do (Dipster)",
-		"src": "images/Do_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "Re (Dipster)",
-		"src": "images/Re_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "Mi (Dipster)",
-		"src": "images/Mi_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "Fa (Dipster)",
-		"src": "images/Fa_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "Sol (Dipster)",
-		"src": "images/Sol_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "La (Dipster)",
-		"src": "images/La_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
-	{
-		"name": "Ti (Dipster)",
-		"src": "images/Ti_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Ethereal",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Magical"
-		],
-		"class": [
-			"Common",
-			"Dipster"
-		]
-	},
+
 	{
 		"name": "Tawkerr",
 		"src": "images/Tawkerr_Portrait.png",
@@ -2863,42 +2668,6 @@ var monsters = [
 		"class": [
 			"Common",
 			"Mythical"
-		]
-	},
-	{
-		"name": "Glowbe",
-		"src": "images/Glowbe_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Shugabush",
-			"Seasonal",
-			"Ethereal",
-			"Workshop",
-			"Mythical",
-			"Sanctum",
-			"Wublin",
-			"Celestial",
-			"Composer",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth"
-		],
-		"class": [
-			"Common",
-			"Spectral"
 		]
 	},
 	{
@@ -5240,6 +5009,105 @@ var monsters = [
 		]
 	},
 	{
+		"name": "Epic Arackulele",
+		"src": "images/Epic_Arackulele_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Bellowfish",
+		"src": "images/Epic_Bellowfish_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Boodoo",
+		"src": "images/Epic_Boodoo_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Dragong",
+		"src": "images/Epic_Dragong_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Fung Pray",
+		"src": "images/Epic_Fung_Pray_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Jellbilly",
+		"src": "images/Epic_Jellbilly_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Kazilleon",
+		"src": "images/Epic_Kazilleon_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Nebulob",
+		"src": "images/Epic_Nebulob_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
+		"name": "Epic Sox",
+		"src": "images/Epic_Sox_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Ethereal"
+		]
+	},
+	{
 		"name": "Epic Clavavera",
 		"src": "images/Epic_Clavavera_Portrait.png",
 		"islands": [
@@ -5396,308 +5264,8 @@ var monsters = [
 		]
 	},
 	{
-		"name": "Plant",
-		"src": "images/Plant_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Water",
-			"Earth",
-			"Haven",
-			"Light",
-			"Psychic",
-			"Shugabush",
-			"Tribal",
-			"Colossingum",
-			"Composer",
-			"Gold",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Water",
-			"Mirror Earth",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Cold",
-		"src": "images/Cold_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Earth",
-			"Oasis",
-			"Light",
-			"Faerie",
-			"Shugabush",
-			"Tribal",
-			"Colossingum",
-			"Composer",
-			"Gold",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Earth",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Air",
-		"src": "images/Air_Portrait.png",
-		"islands": [
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Shugabush",
-			"Tribal",
-			"Colossingum",
-			"Composer",
-			"Gold",
-			"Amber",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Water",
-		"src": "images/Water_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Oasis",
-			"Psychic",
-			"Bone",
-			"Shugabush",
-			"Tribal",
-			"Colossingum",
-			"Composer",
-			"Gold",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Earth",
-		"src": "images/Earth_Portrait.png",
-		"islands": [
-			"Plant",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Faerie",
-			"Bone",
-			"Shugabush",
-			"Tribal",
-			"Colossingum",
-			"Composer",
-			"Gold",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Fire",
-		"src": "images/Fire_Portrait.png",
-		"islands": [
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Tribal",
-			"Amber",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Light",
-		"src": "images/Light_Portrait.png",
-		"islands": [
-			"Light",
-			"Magical",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Psychic",
-		"src": "images/Psychic_Portrait.png",
-		"islands": [
-			"Psychic",
-			"Magical",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Faerie",
-		"src": "images/Faerie_Portrait.png",
-		"islands": [
-			"Faerie",
-			"Magical",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Bone",
-		"src": "images/Bone_Portrait.png",
-		"islands": [
-			"Bone",
-			"Magical",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Crystal",
-		"src": "images/Crystal_Portrait.png",
-		"islands": [
-			"Water",
-			"Ethereal",
-			"Colossingum",
-			"Workshop",
-			"Mirror Water",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Mech",
-		"src": "images/Mech_Portrait.png",
-		"islands": [
-			"Air",
-			"Ethereal",
-			"Colossingum",
-			"Workshop",
-			"Mirror Air",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Mythical",
-		"src": "images/Mythical_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Mythical",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"General"
-		],
-		"class": [
-			"Mythical"
-		]
-	},
-	{
-		"name": "Plasma",
-		"src": "images/Plasma_Portrait.png",
-		"islands": [
-			"Plant",
-			"Ethereal",
-			"Colossingum",
-			"Workshop",
-			"Mirror Plant",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Poison",
-		"src": "images/Poison_Portrait.png",
-		"islands": [
-			"Earth",
-			"Ethereal",
-			"Colossingum",
-			"Workshop",
-			"Mirror Earth",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Shadow",
-		"src": "images/Shadow_Portrait.png",
-		"islands": [
-			"Cold",
-			"Mirror Cold",
-			"Ethereal",
-			"Colossingum",
-			"Workshop",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Electricity",
-		"src": "images/Electricity_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Ethereal",
-			"Wublin",
-			"Gold",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Oasis",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Celestials",
-		"src": "images/Celestial_Portrait.png",
-		"islands": [
-			"Celestial",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Dipster",
-		"src": "images/Dipster_Portrait.png",
+		"name": "Do (Dipster)",
+		"src": "images/Do_Portrait.png",
 		"islands": [
 			"Plant",
 			"Cold",
@@ -5716,173 +5284,845 @@ var monsters = [
 			"Mirror Air",
 			"Mirror Water",
 			"Mirror Earth",
-			"Magical",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Eggs-Travaganza",
-		"src": "images/Eggy_Portrait.png",
-		"islands": [
-			"Water",
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "Spooktacle",
-		"src": "images/Spooktacle_Portrait.png",
-		"islands": [
-			"Plant",
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "Yay",
-		"src": "images/Yay_Portrait.png",
-		"islands": [
-			"Cold",
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "SummerSong",
-		"src": "images/Summer_Portrait.png",
-		"islands": [
-			"Air",
-			"Earth",
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "Love",
-		"src": "images/Love_Portrait.png",
-		"islands": [
-			"Air",
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "Feast-Ember",
-		"src": "images/Feast-Ember_Portrait.png",
-		"islands": [
-			"Haven",
-			"Oasis",
-			"Seasonal"
-		],
-		"class": []
-	},
-	{
-		"name": "Beat Hereafter",
-		"src": "images/Beat_Hereafter_Portrait.png",
-		"islands": [
-			"Bone",
-			"Seasonal"
-		],
-		"class": []
-	},
-	{
-		"name": "Anniversary Month",
-		"src": "images/Anniversary_Month_Portrait.png",
-		"islands": [
-			"Seasonal",
-			"Gold"
-		],
-		"class": []
-	},
-	{
-		"name": "Crescendo Moon",
-		"src": "images/Crescendo_Moon_Portrait.png",
-		"islands": [
-			"Seasonal",
 			"Magical"
 		],
-		"class": []
+		"class": [
+			"Common",
+			"Dipster"
+		]
 	},
 	{
-		"name": "Cloverspell",
-		"src": "images/Cloverspell_Portrait.png",
-		"islands": [
-			"Faerie",
-			"Seasonal"
-		],
-		"class": []
-	},
-	{
-		"name": "Gold Island",
-		"src": "images/Gold_Portrait.png",
-		"islands": [
-			"Gold",
-			"General"
-		],
-		"class": []
-	},
-	{
-		"name": "Legendary",
-		"src": "images/Legendary_Portrait.png",
+		"name": "Re (Dipster)",
+		"src": "images/Re_Portrait.png",
 		"islands": [
 			"Plant",
 			"Cold",
 			"Air",
 			"Water",
 			"Earth",
-			"Shugabush",
-			"Gold",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
 			"Mirror Plant",
 			"Mirror Cold",
 			"Mirror Air",
 			"Mirror Water",
 			"Mirror Earth",
-			"General"
+			"Magical"
 		],
-		"class": []
-	},
-	{
-		"name": "Locked",
-		"src": "images/Locked_Portrait.png",
-		"islands": [
-			"General"
+		"class": [
+			"Common",
+			"Dipster"
 		]
 	},
 	{
-		"name": "Prize",
-		"src": "images/Prize_Portrait.png",
+		"name": "Mi (Dipster)",
+		"src": "images/Mi_Portrait.png",
 		"islands": [
-			"General"
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
 		],
-		"class": []
-	},
-	{
-		"name": "Random",
-		"src": "images/Random_Portrait.png",
-		"islands": [
-			"General"
+		"class": [
+			"Common",
+			"Dipster"
 		]
 	},
 	{
-		"name": "Musical",
-		"src": "images/Musical_Portrait.png",
+		"name": "Fa (Dipster)",
+		"src": "images/Fa_Portrait.png",
 		"islands": [
-			"General"
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Common",
+			"Dipster"
 		]
 	},
 	{
-		"name": "Template",
-		"src": "images/Blank_Portrait.png",
+		"name": "Sol (Dipster)",
+		"src": "images/Sol_Portrait.png",
 		"islands": [
-			"General"
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Common",
+			"Dipster"
 		]
-	}
+	},
+	{
+		"name": "La (Dipster)",
+		"src": "images/La_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Common",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Ti (Dipster)",
+		"src": "images/Ti_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Common",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Waxen La",
+		"src": "images/Waxen_La_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Rare",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Vitreous Ti",
+		"src": "images/Vitreous_Ti_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Rare",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Superno Fa",
+		"src": "images/Superno-Fa_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Epic",
+			"Dipster"
+		]
+	},
+	{
+		"name": "King Do",
+		"src": "images/King_Do_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Epic",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Queen Re",
+		"src": "images/Queen_Re_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Ethereal",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Magical"
+		],
+		"class": [
+			"Epic",
+			"Dipster"
+		]
+	},
+	{
+		"name": "Glowbe",
+		"src": "images/Glowbe_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Shugabush",
+			"Seasonal",
+			"Ethereal",
+			"Workshop",
+			"Mythical",
+			"Sanctum",
+			"Wublin",
+			"Celestial",
+			"Composer",
+			"Amber",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth"
+		],
+		"class": [
+			"Common",
+			"Spectral"
+		]
+	},
+	// {
+	// 	"name": "Plant",
+	// 	"src": "images/Plant_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Light",
+	// 		"Psychic",
+	// 		"Shugabush",
+	// 		"Tribal",
+	// 		"Colossingum",
+	// 		"Composer",
+	// 		"Gold",
+	// 		"Amber",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Cold",
+	// 	"src": "images/Cold_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Earth",
+	// 		"Oasis",
+	// 		"Light",
+	// 		"Faerie",
+	// 		"Shugabush",
+	// 		"Tribal",
+	// 		"Colossingum",
+	// 		"Composer",
+	// 		"Gold",
+	// 		"Amber",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Air",
+	// 	"src": "images/Air_Portrait.png",
+	// 	"islands": [
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Oasis",
+	// 		"Shugabush",
+	// 		"Tribal",
+	// 		"Colossingum",
+	// 		"Composer",
+	// 		"Gold",
+	// 		"Amber",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Water",
+	// 	"src": "images/Water_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Oasis",
+	// 		"Psychic",
+	// 		"Bone",
+	// 		"Shugabush",
+	// 		"Tribal",
+	// 		"Colossingum",
+	// 		"Composer",
+	// 		"Gold",
+	// 		"Amber",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Earth",
+	// 	"src": "images/Earth_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Faerie",
+	// 		"Bone",
+	// 		"Shugabush",
+	// 		"Tribal",
+	// 		"Colossingum",
+	// 		"Composer",
+	// 		"Gold",
+	// 		"Amber",
+	// 		"Mirror Plant",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Fire",
+	// 	"src": "images/Fire_Portrait.png",
+	// 	"islands": [
+	// 		"Haven",
+	// 		"Oasis",
+	// 		"Light",
+	// 		"Psychic",
+	// 		"Faerie",
+	// 		"Bone",
+	// 		"Tribal",
+	// 		"Amber",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Light",
+	// 	"src": "images/Light_Portrait.png",
+	// 	"islands": [
+	// 		"Light",
+	// 		"Magical",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Psychic",
+	// 	"src": "images/Psychic_Portrait.png",
+	// 	"islands": [
+	// 		"Psychic",
+	// 		"Magical",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Faerie",
+	// 	"src": "images/Faerie_Portrait.png",
+	// 	"islands": [
+	// 		"Faerie",
+	// 		"Magical",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Bone",
+	// 	"src": "images/Bone_Portrait.png",
+	// 	"islands": [
+	// 		"Bone",
+	// 		"Magical",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Crystal",
+	// 	"src": "images/Crystal_Portrait.png",
+	// 	"islands": [
+	// 		"Water",
+	// 		"Ethereal",
+	// 		"Colossingum",
+	// 		"Workshop",
+	// 		"Mirror Water",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Mech",
+	// 	"src": "images/Mech_Portrait.png",
+	// 	"islands": [
+	// 		"Air",
+	// 		"Ethereal",
+	// 		"Colossingum",
+	// 		"Workshop",
+	// 		"Mirror Air",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Mythical",
+	// 	"src": "images/Mythical_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Oasis",
+	// 		"Mythical",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": [
+	// 		"Mythical"
+	// 	]
+	// },
+	// {
+	// 	"name": "Plasma",
+	// 	"src": "images/Plasma_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Ethereal",
+	// 		"Colossingum",
+	// 		"Workshop",
+	// 		"Mirror Plant",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Poison",
+	// 	"src": "images/Poison_Portrait.png",
+	// 	"islands": [
+	// 		"Earth",
+	// 		"Ethereal",
+	// 		"Colossingum",
+	// 		"Workshop",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Shadow",
+	// 	"src": "images/Shadow_Portrait.png",
+	// 	"islands": [
+	// 		"Cold",
+	// 		"Mirror Cold",
+	// 		"Ethereal",
+	// 		"Colossingum",
+	// 		"Workshop",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Electricity",
+	// 	"src": "images/Electricity_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Ethereal",
+	// 		"Wublin",
+	// 		"Gold",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"Oasis",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Celestials",
+	// 	"src": "images/Celestial_Portrait.png",
+	// 	"islands": [
+	// 		"Celestial",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Dipster",
+	// 	"src": "images/Dipster_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Haven",
+	// 		"Oasis",
+	// 		"Light",
+	// 		"Psychic",
+	// 		"Faerie",
+	// 		"Bone",
+	// 		"Ethereal",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"Magical",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Eggs-Travaganza",
+	// 	"src": "images/Eggy_Portrait.png",
+	// 	"islands": [
+	// 		"Water",
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Spooktacle",
+	// 	"src": "images/Spooktacle_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Yay",
+	// 	"src": "images/Yay_Portrait.png",
+	// 	"islands": [
+	// 		"Cold",
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "SummerSong",
+	// 	"src": "images/Summer_Portrait.png",
+	// 	"islands": [
+	// 		"Air",
+	// 		"Earth",
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Love",
+	// 	"src": "images/Love_Portrait.png",
+	// 	"islands": [
+	// 		"Air",
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Feast-Ember",
+	// 	"src": "images/Feast-Ember_Portrait.png",
+	// 	"islands": [
+	// 		"Haven",
+	// 		"Oasis",
+	// 		"Seasonal"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Beat Hereafter",
+	// 	"src": "images/Beat_Hereafter_Portrait.png",
+	// 	"islands": [
+	// 		"Bone",
+	// 		"Seasonal"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Anniversary Month",
+	// 	"src": "images/Anniversary_Month_Portrait.png",
+	// 	"islands": [
+	// 		"Seasonal",
+	// 		"Gold"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Crescendo Moon",
+	// 	"src": "images/Crescendo_Moon_Portrait.png",
+	// 	"islands": [
+	// 		"Seasonal",
+	// 		"Magical"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Cloverspell",
+	// 	"src": "images/Cloverspell_Portrait.png",
+	// 	"islands": [
+	// 		"Faerie",
+	// 		"Seasonal"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Gold Island",
+	// 	"src": "images/Gold_Portrait.png",
+	// 	"islands": [
+	// 		"Gold",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Legendary",
+	// 	"src": "images/Legendary_Portrait.png",
+	// 	"islands": [
+	// 		"Plant",
+	// 		"Cold",
+	// 		"Air",
+	// 		"Water",
+	// 		"Earth",
+	// 		"Shugabush",
+	// 		"Gold",
+	// 		"Mirror Plant",
+	// 		"Mirror Cold",
+	// 		"Mirror Air",
+	// 		"Mirror Water",
+	// 		"Mirror Earth",
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Locked",
+	// 	"src": "images/Locked_Portrait.png",
+	// 	"islands": [
+	// 		"General"
+	// 	]
+	// },
+	// {
+	// 	"name": "Prize",
+	// 	"src": "images/Prize_Portrait.png",
+	// 	"islands": [
+	// 		"General"
+	// 	],
+	// 	"class": []
+	// },
+	// {
+	// 	"name": "Random",
+	// 	"src": "images/Random_Portrait.png",
+	// 	"islands": [
+	// 		"General"
+	// 	]
+	// },
+	// {
+	// 	"name": "Musical",
+	// 	"src": "images/Musical_Portrait.png",
+	// 	"islands": [
+	// 		"General"
+	// 	]
+	// },
+	// {
+	// 	"name": "Template",
+	// 	"src": "images/Blank_Portrait.png",
+	// 	"islands": [
+	// 		"General"
+	// 	]
+	// }
 ];
 /*
 {"name":"Old Hawlo", "src":"images/Beta_Hawlo_Portrait.png"},
