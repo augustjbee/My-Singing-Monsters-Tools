@@ -645,20 +645,6 @@ var monsters = [
 		]
 	},
 	{
-		"name": "Ghazt",
-		"src": "images/Ghazt_Portrait.png",
-		"islands": [
-			"Plant",
-			"Ethereal",
-			"Colossingum",
-			"Mirror Plant"
-		],
-		"class": [
-			"Common",
-			"Ethereal"
-		]
-	},
-	{
 		"name": "Wubbox",
 		"src": "images/Wubbox_Portrait.png",
 		"islands": [
@@ -681,6 +667,92 @@ var monsters = [
 		"class": [
 			"Common",
 			"Supernatural"
+		]
+	},
+	{
+		"name": "Rare Wubbox",
+		"src": "images/Rare_Wubbox_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Ethereal",
+			"Gold",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth",
+			"Oasis",
+			"Wublin"
+		],
+		"class": [
+			"Rare",
+			"Supernatural"
+		]
+	},
+	{
+		"name": "Epic Wubbox (Ethereal Island)",
+		"src": "images/Epic_Wubbox_%28Ethereal_Island%29_Portrait.png",
+		"islands": [
+			"Ethereal"
+		],
+		"class": [
+			"Epic",
+			"Supernatural"
+		]
+	},
+	{
+		"name": "Glowbe",
+		"src": "images/Glowbe_Portrait.png",
+		"islands": [
+			"Plant",
+			"Cold",
+			"Air",
+			"Water",
+			"Earth",
+			"Haven",
+			"Oasis",
+			"Light",
+			"Psychic",
+			"Faerie",
+			"Bone",
+			"Shugabush",
+			"Seasonal",
+			"Ethereal",
+			"Workshop",
+			"Mythical",
+			"Sanctum",
+			"Wublin",
+			"Celestial",
+			"Composer",
+			"Amber",
+			"Mirror Plant",
+			"Mirror Cold",
+			"Mirror Air",
+			"Mirror Water",
+			"Mirror Earth"
+		],
+		"class": [
+			"Common",
+			"Spectral"
+		]
+	},
+	{
+		"name": "Ghazt",
+		"src": "images/Ghazt_Portrait.png",
+		"islands": [
+			"Plant",
+			"Ethereal",
+			"Colossingum",
+			"Mirror Plant"
+		],
+		"class": [
+			"Common",
+			"Ethereal"
 		]
 	},
 	{
@@ -3196,31 +3268,7 @@ var monsters = [
 			"Ethereal"
 		]
 	},
-	{
-		"name": "Rare Wubbox",
-		"src": "images/Rare_Wubbox_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Ethereal",
-			"Gold",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth",
-			"Oasis",
-			"Wublin"
-		],
-		"class": [
-			"Rare",
-			"Supernatural"
-		]
-	},
+
 	{
 		"name": "Rare G'joob",
 		"src": "images/Rare_G%27joob_Portrait.png",
@@ -3317,6 +3365,20 @@ var monsters = [
 		"class": [
 			"Rare",
 			"Seasonal"
+		]
+	},
+	{
+		"name": "Rare Monculus",
+		"src": "images/Rare_Monculus_Portrait.png",
+		"islands": [
+			"Seasonal",
+			"Ethereal",
+			"Wublin"
+		],
+		"class": [
+			"Rare",
+			"Aux. Seasonal",
+			"Life-Formula"
 		]
 	},
 	{
@@ -4752,6 +4814,20 @@ var monsters = [
 		]
 	},
 	{
+		"name": "Epic Monculus",
+		"src": "images/Epic_Monculus_Portrait.png",
+		"islands": [
+			"Seasonal",
+			"Ethereal",
+			"Wublin"
+		],
+		"class": [
+			"Epic",
+			"Aux. Seasonal",
+			"Life-Formula"
+		]
+	},
+	{
 		"name": "Epic Wubbox (Plant Island)",
 		"src": "images/Epic_Wubbox_%28Plant_Island%29_Portrait.png",
 		"islands": [
@@ -4827,6 +4903,7 @@ var monsters = [
 			"Supernatural"
 		]
 	},
+
 	{
 		"name": "Epic Kayna",
 		"src": "images/Epic_Kayna_Portrait.png",
@@ -5599,42 +5676,7 @@ var monsters = [
 			"Dipster"
 		]
 	},
-	{
-		"name": "Glowbe",
-		"src": "images/Glowbe_Portrait.png",
-		"islands": [
-			"Plant",
-			"Cold",
-			"Air",
-			"Water",
-			"Earth",
-			"Haven",
-			"Oasis",
-			"Light",
-			"Psychic",
-			"Faerie",
-			"Bone",
-			"Shugabush",
-			"Seasonal",
-			"Ethereal",
-			"Workshop",
-			"Mythical",
-			"Sanctum",
-			"Wublin",
-			"Celestial",
-			"Composer",
-			"Amber",
-			"Mirror Plant",
-			"Mirror Cold",
-			"Mirror Air",
-			"Mirror Water",
-			"Mirror Earth"
-		],
-		"class": [
-			"Common",
-			"Spectral"
-		]
-	},
+
 	// {
 	// 	"name": "Plant",
 	// 	"src": "images/Plant_Portrait.png",
